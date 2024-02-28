@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 70%;
+    height: 450px;
+    border: 2px solid #3c3a3a;
+    text-align: center;
+    margin: 50px 15%;
+    background: #3c3a3a;
+}
+input{
+    width: 90%;
+    height: 35px;
+    padding: 5px 8px;
+    margin-top: 50px;
+    font-size: large;
+    text-align: center;
+    box-sizing: border-box;
+}
+.container button{
+    display: block;
+    height: 35px;
+    width: 100px;
+    margin: 50px;
+}
+.container #su{
+    color: aliceblue;
+    background: #6fdb91;
+}
+.container #re{
+    color: aliceblue;
+    background: #111111;
+}
+
+.container #su:hover, #re:hover{
+    opacity: 50%;
+    background: #fbd148;
+}
+.container #pa{
+    color: aliceblue;
+    
+}
