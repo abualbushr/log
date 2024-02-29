@@ -25,10 +25,12 @@ input{
     height: 35px;
     width: 100px;
     margin: 50px;
+    cursor: pointer;
 }
 .container #su{
     color: aliceblue;
     background: #6fdb91;
+    cursor: pointer;
 }
 .container #re{
     color: aliceblue;
